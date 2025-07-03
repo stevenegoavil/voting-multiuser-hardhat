@@ -56,20 +56,14 @@ Run the tests locally:
 
 ## Possible Future Additions
 
-- Proposal Deadlines 
-Allow the contract owner to set time limits for votes, closing proposals automatically after expiration
-- Vote Tallying
-Display total yes/no votes in real-time for each proposal, enabling transparent community decisions.
-- Role-Based Access Control
-Introduce multiple roles (e.g., admin, moderator, voter) to delegate permissions for managing proposals and users.
-- Event Emitters
-Emit `VoteCast`, `VoterApproved`, and `VoterRevoked` events for off-chain listening and analytics dashboards.
-- Testnet and Mainnet Deployment
-Deploy the DApp to Ethereum testnets (e.g., Sepolia) for multi-user testing in a real-world environment.
-- Frontend Enhancements
-Integrate React or Vue for dynamic UI, with live MetaMask connection status and vote updates.
-- Staked Voting
-Require users to stake ETH or tokens to participate, adding weight to votes and discouraging spam.
+- Proposal Deadlines: Allow the contract owner to set time limits for votes, closing proposals automatically after expiration
+- Vote Tallying: Display total yes/no votes in real-time for each proposal, enabling transparent community decisions.
+- Role-Based Access Control: Introduce multiple roles (e.g., admin, moderator, voter) to delegate permissions for managing proposals and users.
+- Event Emitters: Emit `VoteCast`, `VoterApproved`, and `VoterRevoked` events for off-chain listening and analytics dashboards.
+- Testnet and Mainnet Deployment: Deploy the DApp to Ethereum testnets (e.g., Sepolia) for multi-user testing in a real-world environment.
+- Frontend Enhancements: Integrate React or Vue for dynamic UI, with live MetaMask connection status and vote updates.
+- Staked Voting: Require users to stake ETH or tokens to participate, adding weight to votes and discouraging spam.
+
 ---
 
 Built by Steven Egoavil. 
